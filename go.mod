@@ -31,12 +31,12 @@ require (
 	github.com/libdns/alidns v1.0.4
 	github.com/libdns/cloudflare v0.1.3
 	github.com/libdns/cloudns v1.0.0
-	github.com/libdns/duckdns v0.2.0
+	github.com/libdns/duckdns v0.3.0
 	github.com/libdns/gcore v0.0.0-20250127070537-4a9d185c9d20
 	github.com/libdns/godaddy v1.0.3
 	github.com/libdns/hetzner v0.0.1
 	github.com/libdns/huaweicloud v0.3.5
-	github.com/libdns/libdns v0.2.3
+	github.com/libdns/libdns v1.0.0-beta.1
 	github.com/libdns/linode v0.4.1
 	github.com/libdns/namecheap v0.0.0-20250228022813-d8b4b66c5072
 	github.com/libdns/namedotcom v0.3.3
